@@ -1,0 +1,151 @@
+[INFO ] 2023-01-02 15:56:22.134 [main] ReportManager - 
+################################################################################################################################################
+Detected SHAFT Engine Version: "SHAFT Engine v6.4.20221225"
+################################################################################################################################################
+[INFO ] 2023-01-02 15:56:55.076 [main] ReportManager - Loaded OpenCV "opencv_java460".
+[INFO ] 2023-01-02 15:56:56.809 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 65 ms.
+[INFO ] 2023-01-02 15:56:56.871 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[INFO ] 2023-01-02 15:56:56.878 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:56.880 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:56.882 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:56.884 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:56.890 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:56.892 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:56.927 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 30 ms.
+[INFO ] 2023-01-02 15:56:57.088 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 157 ms.
+[INFO ] 2023-01-02 15:56:57.094 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.095 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.098 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.100 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.106 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.107 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.119 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.122 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.160 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.162 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.184 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[INFO ] 2023-01-02 15:56:57.187 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO ] 2023-01-02 15:56:57.201 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2023-01-02 15:56:57.207 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+[INFO ] 2023-01-02 15:56:57.217 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.219 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.234 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.235 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.243 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.249 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.251 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.252 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.256 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.257 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.260 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.261 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.264 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.265 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.267 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.268 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.293 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2023-01-02 15:56:57.320 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
+[INFO ] 2023-01-02 15:56:57.323 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.324 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.350 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[INFO ] 2023-01-02 15:56:57.352 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.361 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.362 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-01-02 15:56:57.369 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[INFO ] 2023-01-02 15:56:57.377 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2023-01-02 15:56:57.493 [main] Utils - [TestNG] Running:
+  C:\Users\ghadeermoh\AppData\Local\Temp\testng-eclipse--1119589871\testng-customsuite.xml
+
+[INFO ] 2023-01-02 15:56:57.842 [main] ReportManager - 
+################################################################################################################################################
+Starting Execution of a Configuration (Setup or Teardown) Method
+Test Method:		"com.shaft.tools.io.reporting.ReportHelper.setupActivities"
+################################################################################################################################################
+[INFO ] 2023-01-02 15:56:58.008 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2023-01-02 15:57:06.422 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2023-01-02 15:57:09.840 [main] ReportManager - Initializing Important Links...
+[INFO ] 2023-01-02 15:57:09.898 [main] ReportManager - Initializing Custom Properties...
+[INFO ] 2023-01-02 15:57:10.508 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 17 ms.
+[INFO ] 2023-01-02 15:57:10.548 [main] ReportManager - 
+################################################################################################################################################
+Starting Execution of a Configuration (Setup or Teardown) Method
+Test Method:		"nonCommerceGUITest.RegisterationTest.setup"
+################################################################################################################################################
+[INFO ] 2023-01-02 15:57:10.566 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/downloadedFiles/"".
+[INFO ] 2023-01-02 15:57:10.568 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/target/downloadedFiles/"".
+[INFO ] 2023-01-02 15:57:11.242 [main] ReportManager - Attempting to run locally on: "Windows-64 | Google chrome", Headless Execution.
+[INFO ] 2023-01-02 15:57:11.252 [main] ReportManager - Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time...
+[DEBUG] 2023-01-02 15:57:15.180 [main] ResolutionCache - Resolution chrome=108 in cache (valid until ??:??:?? ??/??/???? EET)
+[DEBUG] 2023-01-02 15:57:15.185 [main] ResolutionCache - Resolution chrome108=108.0.5359.71 in cache (valid until ??:??:?? ??/??/???? EET)
+[INFO ] 2023-01-02 15:57:15.188 [main] WebDriverManager - Using chromedriver 108.0.5359.71 (resolved driver for Chrome 108)
+[DEBUG] 2023-01-02 15:57:15.331 [main] WebDriverManager - Driver chromedriver 108.0.5359.71 found in cache
+[INFO ] 2023-01-02 15:57:15.335 [main] WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ghadeermoh\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
+[DEBUG] 2023-01-02 15:57:19.575 [main] InternalLoggerFactory - Using SLF4J as the default logging framework
+[DEBUG] 2023-01-02 15:57:19.616 [main] ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+[DEBUG] 2023-01-02 15:57:19.616 [main] ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+[DEBUG] 2023-01-02 15:57:19.653 [main] ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@46b55a0e
+[DEBUG] 2023-01-02 15:57:19.825 [main] PlatformDependent0 - -Dio.netty.noUnsafe: false
+[DEBUG] 2023-01-02 15:57:19.826 [main] PlatformDependent0 - Java version: 17
+[DEBUG] 2023-01-02 15:57:19.845 [main] PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+[DEBUG] 2023-01-02 15:57:19.848 [main] PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+[DEBUG] 2023-01-02 15:57:19.849 [main] PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+[DEBUG] 2023-01-02 15:57:19.852 [main] PlatformDependent0 - java.nio.Buffer.address: available
+[DEBUG] 2023-01-02 15:57:19.866 [main] PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+[DEBUG] 2023-01-02 15:57:19.870 [main] PlatformDependent0 - java.nio.Bits.unaligned: available, true
+[DEBUG] 2023-01-02 15:57:19.875 [main] PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @617c74e5
+[DEBUG] 2023-01-02 15:57:19.916 [main] PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+[DEBUG] 2023-01-02 15:57:19.916 [main] PlatformDependent - sun.misc.Unsafe: available
+[DEBUG] 2023-01-02 15:57:19.918 [main] PlatformDependent - maxDirectMemory: 1044381696 bytes (maybe)
+[DEBUG] 2023-01-02 15:57:19.919 [main] PlatformDependent - -Dio.netty.tmpdir: C:\Users\GHADEE~1\AppData\Local\Temp (java.io.tmpdir)
+[DEBUG] 2023-01-02 15:57:19.919 [main] PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[DEBUG] 2023-01-02 15:57:19.920 [main] PlatformDependent - Platform: Windows
+[DEBUG] 2023-01-02 15:57:19.923 [main] PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+[DEBUG] 2023-01-02 15:57:19.923 [main] PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+[DEBUG] 2023-01-02 15:57:19.927 [main] CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+[DEBUG] 2023-01-02 15:57:19.928 [main] PlatformDependent - -Dio.netty.noPreferDirect: false
+[DEBUG] 2023-01-02 15:57:19.993 [main] PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+[DEBUG] 2023-01-02 15:57:20.454 [main] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[DEBUG] 2023-01-02 15:57:20.455 [main] InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[DEBUG] 2023-01-02 15:57:21.144 [main] JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+[DEBUG] 2023-01-02 15:57:21.145 [main] JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+[DEBUG] 2023-01-02 15:57:21.661 [main] MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 8
+[DEBUG] 2023-01-02 15:57:21.799 [main] NioEventLoop - -Dio.netty.noKeySetOptimization: false
+[DEBUG] 2023-01-02 15:57:21.799 [main] NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+[DEBUG] 2023-01-02 15:57:22.374 [main] PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 8
+[DEBUG] 2023-01-02 15:57:22.375 [main] PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 8
+[DEBUG] 2023-01-02 15:57:22.375 [main] PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+[DEBUG] 2023-01-02 15:57:22.375 [main] PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+[DEBUG] 2023-01-02 15:57:22.375 [main] PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+[DEBUG] 2023-01-02 15:57:22.376 [main] PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+[DEBUG] 2023-01-02 15:57:22.376 [main] PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+[DEBUG] 2023-01-02 15:57:22.376 [main] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[DEBUG] 2023-01-02 15:57:22.376 [main] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+[DEBUG] 2023-01-02 15:57:22.376 [main] PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[DEBUG] 2023-01-02 15:57:22.377 [main] PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+[DEBUG] 2023-01-02 15:57:22.377 [main] PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[DEBUG] 2023-01-02 15:57:22.450 [main] ByteBufUtil - -Dio.netty.allocator.type: pooled
+[DEBUG] 2023-01-02 15:57:22.451 [main] ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+[DEBUG] 2023-01-02 15:57:22.451 [main] ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[ERROR] 2023-01-02 15:57:26.473 [main] AllureLifecycle - Could not add attachment: no test is running
+[INFO ] 2023-01-02 15:57:26.477 [main] ReportManager - Successfully created attachment "SHAFT Engine Logs - Current Method log: setup"
+[INFO ] 2023-01-02 15:57:27.652 [main] ReportManager - 
+################################################################################################################################################
+Starting Execution:	"1 out of 1" test cases in the current suite
+Test Method:		"nonCommerceGUITest.RegisterationTest.testRegisteration"
+Test Description:	"Make sure registeration done with correct data "
+################################################################################################################################################
+[INFO ] 2023-01-02 15:57:27.750 [main] ReportManager - Successfully created attachment "SHAFT Engine Logs - Current Method log: testRegisteration"
+[INFO ] 2023-01-02 15:57:28.025 [main] ReportManager - 
+################################################################################################################################################
+Starting Execution of a Configuration (Setup or Teardown) Method
+Test Method:		"com.shaft.tools.io.reporting.ReportHelper.teardownActivities"
+################################################################################################################################################
+[INFO ] 2023-01-02 15:57:28.085 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2023-01-02 15:57:28.087 [main] ReportManager - Successfully created attachment "SHAFT Engine Logs - Execution log"
+[INFO ] 2023-01-02 15:57:28.089 [main] ReportManager - 
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: "SHAFT Engine v6.4.20221225"
+SHAFT Engine is licensed under the MIT License: [https://github.com/ShaftHQ/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################
+[INFO ] 2023-01-02 15:57:28.093 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2023-01-02 15:57:28.094 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".
