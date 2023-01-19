@@ -1,1 +1,7 @@
 /target/
+generate_allure_report.bat 
+target
+extent-reports
+allure-results
+.idea
+
