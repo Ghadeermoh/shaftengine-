@@ -10,7 +10,7 @@ import nonCommerceGUI.Registeration;
 
 public class RegisterationTest {
 	
-	private ThreadLocal <WebDriver> driver;
+	private ThreadLocal <WebDriver> driver = new ThreadLocal<>();
 	
 	@BeforeClass
 	public void setup() {

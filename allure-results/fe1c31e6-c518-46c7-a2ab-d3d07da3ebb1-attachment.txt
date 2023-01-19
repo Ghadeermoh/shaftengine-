@@ -1,0 +1,8 @@
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/downloadedFiles/"". @10-01-2023 20:00:19.0524 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/target/downloadedFiles/"". @10-01-2023 20:00:19.0525 PM
+[ReportManager] Attempting to run locally on: "Windows-64 | Google chrome". @10-01-2023 20:00:19.0592 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @10-01-2023 20:00:19.0595 PM
+[ReportManager] Successfully Opened Google chrome. @10-01-2023 20:00:22.0153 PM
+[ReportManager] Target URL: "https://demo.nopcommerce.com/" @10-01-2023 20:00:22.0162 PM
+[ReportManager] Initial URL: "data:," @10-01-2023 20:00:22.0187 PM
+[ReportManager] Navigate to url "https://demo.nopcommerce.com/". @10-01-2023 20:00:23.0326 PM

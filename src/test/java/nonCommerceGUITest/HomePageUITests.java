@@ -12,7 +12,7 @@ import nonCommerceGUI.UtilityClass;
 
 public class HomePageUITests {
 
-	private ThreadLocal<WebDriver> driver;
+	private ThreadLocal<WebDriver> driver=new ThreadLocal<>();
 
 	@BeforeClass
 	public void setup() {

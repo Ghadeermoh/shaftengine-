@@ -1,6 +1,0 @@
-
-################################################################################################################################################
-Starting Execution:	"1 out of 1" test cases in the current suite
-Test Method:		"nonCommerceGUITest.RegisterationTest.testRegisteration"
-Test Description:	"Make sure registeration done with correct data "
-################################################################################################################################################

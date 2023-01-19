@@ -12,7 +12,7 @@ public class HomePageUI {
 	}
 	
 	//----Locators----
-	private By customerCurrencyBox= By.id("customerCurrency");
+	private By customerCurrencyBox= By.xpath("//select[@id='customerCurrency']//option[1]");
 	
 	public String defaultCurrency="US Dollar";
 	
