@@ -52,5 +52,5 @@ jobs:
         if: runner.os == 'Windows'
         continue-on-error: true
         run: |
-          cd untitled1/
+          cd shaftengine/
           mvn test -DexecutionAddress="local" -DtargetOperatingSystem="Windows-64" -DmaximumPerformanceMode="2" -DtargetBrowserName="MicrosoftEdge" -DgenerateExtentReports="true" -DcleanExtentReportsDirectoryBeforeExecution="true" -DsetParallel="NONE" -DsetThreadCount="1"
