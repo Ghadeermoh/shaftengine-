@@ -15,7 +15,7 @@ public class Registeration {
 	}
 
 	// ---locators -------
-	By registerPage = By.xpath("//a[contains(text(),'Register')]");
+	By registerPage = By.cssSelector("a.ico-register");
 	By genderFemale = By.id("gender-female");
 	By genderMale = By.id("gender-male");
 	By firstName = By.id("FirstName");
@@ -29,21 +29,22 @@ public class Registeration {
 	By password = By.id("Password");
 	By confirmPassword = By.id("ConfirmPassword");
 	By registerButton = By.id("register-button");
-	
+
 	ExcelFileManager excelFileTestDataReader;
-	
+
 	public void openRegisterationPage() {
 		ElementActions.click(driver.get(), registerPage);
 	}
-	
+
 	public void readFromExcell() {
-		 excelFileTestDataReader = new ExcelFileManager(System.getProperty("testDataFolderPath")+"registerdata.xlsx");
+		excelFileTestDataReader = new ExcelFileManager(System.
+				getProperty("testDataFolderPath") + "registerdata.xlsx");
 
 	}
-	
+
 	public void fillRegisterationForm() {
 		ElementActions.type(driver.get(), email, excelFileTestDataReader.getCellData("FirstName"));
-		
+
 	}
 
 }
