@@ -39,7 +39,7 @@ public class HomePageUITests {
 	@Test (description = "search for an item ")
 	public void searchForItem() {
 		// add JSON path of element we need to search for 
-		Validations.verifyThat().element(driver.get(),new HomePageUI(driver).openHomePage().searchForItem(testData.get().getTestData("x.searchData.firstVal"))).
+		Validations.verifyThat().element(driver.get(),new HomePageUI(driver).openHomePage().searchForItem(testData.get().getTestData("x.searchData[0]"))).
 		exists().withCustomReportMessage("element with id 18 not displayed ").perform();
 		
 	}
@@ -47,7 +47,7 @@ public class HomePageUITests {
 	@Test (description = "search for an item ")
 	public void searchForItem2() {
 		// add JSON path of element we need to search for 
-		Validations.verifyThat().element(driver.get(),new HomePageUI(driver).openHomePage().searchForItem(testData.get().getTestData("x.searchData.secondVal"))).
+		Validations.verifyThat().element(driver.get(),new HomePageUI(driver).openHomePage().searchForItem(testData.get().getTestData("x.searchData[1]"))).
 		exists().withCustomReportMessage("element with id 18 not displayed ").perform();
 		
 	}

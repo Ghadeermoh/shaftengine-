@@ -1,8 +1,5 @@
 {
 
-
-"searchData": {"firstVal":"cell phone",
-                    "secondVal":"computer"
-                    }
-
-}
+"searchData":["cell phone", "computer"] 
+ 
+ }
